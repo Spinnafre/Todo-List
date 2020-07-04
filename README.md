@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <img  src="https://github.com/Spinnafre/Pipefy-simple-Clone/blob/master/pipefy.gif" alt="gif do app" width=80% height=80%>
+  <img  src="https://github.com/Spinnafre/Todo-List/blob/master/todo.gif" alt="gif do app" width=80% height=80%>
 </h1>
 
 
